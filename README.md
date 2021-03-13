@@ -25,6 +25,8 @@ Foi utilizada a template [One Page Wonder](https://startbootstrap.com/template-o
 - Procfile - Este ficheiro é específico para o Heroku saber qual é o ficheiro `.py` principal que o gunicorn deve executar
 
 
+**AVISO**: Podem gerar o `streaners_new.csv` utilizando as [tools](https://github.com/LiveDivulgador/Tools-do-LiveDivulgador) do LiveDivulgador.
+
 ## Utilização
 Caso esteja em um ambiente de desenvolvimento, renomeie o ficheiro `.env_example` para `.env`.
 
